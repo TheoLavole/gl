@@ -1,0 +1,11 @@
+<assembly>
+	<id>src</id>
+  	<formats>
+    	<format>zip</format>
+  	</formats>
+  	<fileSets>
+ 	 	<fileSet>
+ 	 		<directory>src</directory>
+ 	 	</fileSet>
+	</fileSets>
+</assembly>
